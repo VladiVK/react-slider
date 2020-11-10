@@ -1,10 +1,10 @@
-
+import Slider from './Slider'
 
 function App() {
   return (
-    <div>
-      App.js
-    </div>
+    <>
+      <Slider />
+    </>
   );
 }
 
